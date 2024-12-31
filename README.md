@@ -84,7 +84,7 @@ This repository contains a detailed analysis of StoreDataAnalysis's performance 
 
 ---
 
-## Insights 
+## Conclusion
 
 1. **Target Women Customers**:
    - Women drove the majority of revenue (64%).
@@ -97,6 +97,10 @@ This repository contains a detailed analysis of StoreDataAnalysis's performance 
 4. **Optimize Returns & Refunds**:
    - Returns and refunds (4% of total orders) indicate potential product quality or mismatch issues. 
 
+---
+
+## Author
+Supriya Kumari
 
 ---
 
