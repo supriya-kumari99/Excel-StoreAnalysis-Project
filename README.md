@@ -102,15 +102,3 @@ This repository contains a detailed analysis of StoreDataAnalysis's performance 
 ## Author
 Supriya Kumari
 
----
-
-
-## Future Scope
-- Add year-over-year comparison for tracking growth.
-- Include predictive analytics for customer behavior using Python or Power BI.
-- Automate the generation of dynamic dashboards.
-
-
----
-
-
