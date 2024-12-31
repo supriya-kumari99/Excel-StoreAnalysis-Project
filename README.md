@@ -1,6 +1,7 @@
 # Store Data Analysis Report 2022
 
 This repository contains a detailed analysis of StoreDataAnalysis's performance for 2022. The report focuses on analyzing orders, sales trends, demographic insights, channel effectiveness, and regional contributions. The data is visualized using Microsoft Excel dashboards, offering actionable insights to guide future business strategies.
+
 ![Store DataAnalysis2022](https://github.com/user-attachments/assets/28ee9a56-6ba5-478a-a55b-12df23c933b0)
 ---
 
